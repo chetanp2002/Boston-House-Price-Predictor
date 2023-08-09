@@ -1,1 +1,1 @@
-# ML-Practice-Projects
+# House Price Predictor
